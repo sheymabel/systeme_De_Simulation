@@ -1,0 +1,14 @@
+C:\Users\MSI\source\repos\SystemeDeSimulation\Conteneurmain\bin\Debug\net6.0\Conteneurmain.exe
+C:\Users\MSI\source\repos\SystemeDeSimulation\Conteneurmain\bin\Debug\net6.0\Conteneurmain.deps.json
+C:\Users\MSI\source\repos\SystemeDeSimulation\Conteneurmain\bin\Debug\net6.0\Conteneurmain.runtimeconfig.json
+C:\Users\MSI\source\repos\SystemeDeSimulation\Conteneurmain\bin\Debug\net6.0\Conteneurmain.dll
+C:\Users\MSI\source\repos\SystemeDeSimulation\Conteneurmain\bin\Debug\net6.0\Conteneurmain.pdb
+C:\Users\MSI\source\repos\SystemeDeSimulation\Conteneurmain\obj\Debug\net6.0\Conteneurmain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\SystemeDeSimulation\Conteneurmain\obj\Debug\net6.0\Conteneurmain.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\SystemeDeSimulation\Conteneurmain\obj\Debug\net6.0\Conteneurmain.AssemblyInfo.cs
+C:\Users\MSI\source\repos\SystemeDeSimulation\Conteneurmain\obj\Debug\net6.0\Conteneurmain.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\SystemeDeSimulation\Conteneurmain\obj\Debug\net6.0\Conteneurmain.dll
+C:\Users\MSI\source\repos\SystemeDeSimulation\Conteneurmain\obj\Debug\net6.0\refint\Conteneurmain.dll
+C:\Users\MSI\source\repos\SystemeDeSimulation\Conteneurmain\obj\Debug\net6.0\Conteneurmain.pdb
+C:\Users\MSI\source\repos\SystemeDeSimulation\Conteneurmain\obj\Debug\net6.0\Conteneurmain.genruntimeconfig.cache
+C:\Users\MSI\source\repos\SystemeDeSimulation\Conteneurmain\obj\Debug\net6.0\ref\Conteneurmain.dll

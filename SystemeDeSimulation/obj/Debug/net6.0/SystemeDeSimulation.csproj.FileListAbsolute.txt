@@ -1,0 +1,12 @@
+C:\Users\MSI\source\repos\SystemeDeSimulation\SystemeDeSimulation\bin\Debug\net6.0\SystemeDeSimulation.deps.json
+C:\Users\MSI\source\repos\SystemeDeSimulation\SystemeDeSimulation\bin\Debug\net6.0\SystemeDeSimulation.dll
+C:\Users\MSI\source\repos\SystemeDeSimulation\SystemeDeSimulation\bin\Debug\net6.0\SystemeDeSimulation.pdb
+C:\Users\MSI\source\repos\SystemeDeSimulation\SystemeDeSimulation\obj\Debug\net6.0\SystemeDeSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\SystemeDeSimulation\SystemeDeSimulation\obj\Debug\net6.0\SystemeDeSimulation.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\SystemeDeSimulation\SystemeDeSimulation\obj\Debug\net6.0\SystemeDeSimulation.AssemblyInfo.cs
+C:\Users\MSI\source\repos\SystemeDeSimulation\SystemeDeSimulation\obj\Debug\net6.0\SystemeDeSimulation.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\SystemeDeSimulation\SystemeDeSimulation\obj\Debug\net6.0\SystemeDeSimulation.dll
+C:\Users\MSI\source\repos\SystemeDeSimulation\SystemeDeSimulation\obj\Debug\net6.0\refint\SystemeDeSimulation.dll
+C:\Users\MSI\source\repos\SystemeDeSimulation\SystemeDeSimulation\obj\Debug\net6.0\SystemeDeSimulation.pdb
+C:\Users\MSI\source\repos\SystemeDeSimulation\SystemeDeSimulation\obj\Debug\net6.0\ref\SystemeDeSimulation.dll
+C:\Users\MSI\source\repos\SystemeDeSimulation\SystemeDeSimulation\obj\Debug\net6.0\SystemeDeSimulation.csproj.AssemblyReference.cache
